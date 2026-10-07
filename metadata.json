@@ -1,0 +1,6 @@
+{
+  "name": "Esteria Bakery",
+  "description": "Savour the flavour in every bite. Delicious Nigerian pastries, celebration cakes, and small chops made fresh for every occasion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
